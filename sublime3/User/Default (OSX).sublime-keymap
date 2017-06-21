@@ -1,0 +1,12 @@
+
+[
+{"keys": ["f5"], "command": "build" },
+{"keys": ["f3"], "command": "duplicate_line" },
+{"keys": ["ctrl+x+ctrl+f"], "command": "sublime_files" , "args": {"command":"navigate"}},
+{"keys": ["ctrl+x+ctrl+c"], "command": "close" },
+{"keys": ["ctrl+x+ctrl+s"], "command": "save" },
+{"keys": ["ctrl+x+ctrl+w"], "command": "prompt_save_as" },
+{"keys": ["ctrl+alt+v"], "command": "paste_column" },
+{"keys": ["super+alt+k"], "command": "cut" },
+
+]

@@ -1,0 +1,23 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoWrap",
+		"BracketHighlighter",
+		"Color Scheme - JustBeforeDawn",
+		"File Navigator",
+		"LaTeXTools",
+		"Package Control",
+		"PackageResourceViewer",
+		"Paste as Column",
+		"R-Box",
+		"SendCode",
+		"SideBarEnhancements",
+		"SublimeLinter-contrib-xo",
+		"SublimeREPL",
+		"Theme - Soda"
+	]
+}

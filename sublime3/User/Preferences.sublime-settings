@@ -1,0 +1,44 @@
+{
+	"WrapPlus.break_long_words": true,
+	"WrapPlus.break_on_hyphens": true,
+	"added_words":
+	[
+		"subsampling",
+		"terabytes",
+		"coresets",
+		"internet"
+	],
+	"auto_complete": false,
+	"auto_match_enabled": false,
+	"auto_wrap": false,
+	"auto_wrap_beyond_only": false,
+	"auto_wrap_break_long_word": false,
+	"auto_wrap_width": 72,
+	"caret_style": "wide",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai Bright.tmTheme",
+	"draw_white_space": "none",
+	"fade_fold_buttons": false,
+	"font_face": "Courier New",
+	"font_size": 15.0,
+	"gpu_window_buffer": true,
+	"highlight_line": true,
+	"hot_exit": false,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_to_bracket": true,
+	"index_file": false,
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"open_files_in_new_window": false,
+	"remember_open_files": false,
+	"show_full_path": true,
+	"spell_check": true,
+	"tab_size": 4,
+	"theme": "Soda Light.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_automatic_white_space": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": "auto"
+}
